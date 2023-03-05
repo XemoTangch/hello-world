@@ -1,22 +1,22 @@
 {
-    "name": "XemoTangch/hello-world",
+    "name": "xemotangch/hello-world",
     "description": "composer hello world",
     "keywords": ["hello", "world"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/XemoTangch/hello-world",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jordi Boggiano",
-            "email": "j.boggiano@seld.be",
-            "homepage": "http://seld.be"
+            "name": "XemoTangch",
+            "email": "jmphper@163.com",
+            "homepage": "https://jm-ai.com"
         }
     ],
     "require": {
         "php": ">=7.4.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.2",
+        "phpunit/phpunit": "^6.2"
     },
     "suggest": {
 
